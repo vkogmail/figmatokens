@@ -1,0 +1,12 @@
+vkogmail/figmatokens@main:
+  - Tokens/Core.json
+  - Tokens/JuiceiO/
+  - Tokens/CherryiO/
+
+vkogmail/figmatokens@JuiceiO:
+  - Tokens/Core.json
+  - Tokens/JuiceiO/
+
+vkogmailfigmatokens@CherryiO:
+  - Tokens/Core.json
+  - Tokens/CherryiO/
