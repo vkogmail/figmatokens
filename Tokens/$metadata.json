@@ -1,14 +1,8 @@
 {
   "tokenSetOrder": [
-    "Core",
-    "MainDS/Core",
-    "MainDS/Light",
-    "MainDS/Dark",
     "CherryiO/Core",
-    "CherryiO/Light",
     "CherryiO/Dark",
-    "JuiceiO/Core",
-    "JuiceiO/Light",
-    "JuiceiO/Dark"
+    "CherryiO/Light",
+    "Core"
   ]
 }
