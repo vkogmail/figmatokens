@@ -442,6 +442,10 @@
         "400": {
           "value": "rgba({colors.brand.primary.500}, 0.3)",
           "type": "color"
+        },
+        "500": {
+          "value": "{_primary}",
+          "type": "color"
         }
       },
       "gradient": {

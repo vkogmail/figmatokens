@@ -14,22 +14,22 @@
   "Card": {
     "Marketing": {
       "actionable": {
-        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/78b007594ffd33ffc28aa49642fed0c9bcadcdfb/Card/Marketing/actionable.jpg",
+        "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/JuiceiO/Card/Marketing/actionable.jpg",
         "type": "asset"
       },
       "Informational": {
-        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/78b007594ffd33ffc28aa49642fed0c9bcadcdfb/Card/Marketing/informational.jpg",
+        "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/JuiceiO/Card/Marketing/informational.jpg",
         "type": "asset"
       }
     }
   },
   "Avatar": {
     "Default": {
-      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/78b007594ffd33ffc28aa49642fed0c9bcadcdfb/Avatar/Default.png",
+      "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/JuiceiO/Avatar/Default.png",
       "type": "asset"
     },
     "Alternate": {
-      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/JuiceiO/Avatar/Alternate.png",
+      "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/JuiceiO/Avatar/Alternate.png",
       "type": "asset"
     }
   },

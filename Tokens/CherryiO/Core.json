@@ -14,22 +14,22 @@
   "Card": {
     "Marketing": {
       "actionable": {
-        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Card/Marketing/actionable.jpg",
+        "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/CherryiO/Card/Marketing/actionable.jpg",
         "type": "asset"
       },
       "Informational": {
-        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Card/Marketing/informational.jpg",
+        "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/CherryiO/Card/Marketing/informational.jpg",
         "type": "asset"
       }
     }
   },
   "Avatar": {
     "Default": {
-      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Avatar/Default.png",
+      "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/CherryiO/Avatar/Default.png",
       "type": "asset"
     },
     "Alternate": {
-      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Avatar/Alternate.png",
+      "value": "https://raw.githubusercontent.com/vkogmail/figmatokens/main/Images/CherryiO/Avatar/Alternate.png",
       "type": "asset"
     }
   },
