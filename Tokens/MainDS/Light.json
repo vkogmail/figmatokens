@@ -1,0 +1,80 @@
+{
+  "_primary": {
+    "value": "#074EE8",
+    "type": "color"
+  },
+  "_secondary": {
+    "value": "#7aa4ff",
+    "type": "color"
+  },
+  "_tertiary": {
+    "value": "#BC31EA",
+    "type": "color"
+  },
+  "_accent": {
+    "value": "#fff138",
+    "type": "color"
+  },
+  "_gradient": {
+    "value": "linear-gradient(90deg, #99ACD3 0%, #C0C9DC 100%)",
+    "type": "color"
+  },
+  "semantic": {
+    "foreground": {
+      "level-3": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "level-0": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "#1C1C1D",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "#2A2B2C",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "icon-animated": {
+        "value": "{_primary}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "level-0": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-3": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "tabbar": {
+        "value": "#1f4061",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      }
+    },
+    "inactive": {
+      "value": "#a7c3ff",
+      "type": "color"
+    }
+  }
+}

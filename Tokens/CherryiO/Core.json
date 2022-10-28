@@ -1,0 +1,122 @@
+{
+  "Font-Primary": {
+    "value": "Fredoka",
+    "type": "fontFamilies"
+  },
+  "utility": {
+    "success": {
+      "500": {
+        "value": "#5DAA1A",
+        "type": "color"
+      }
+    }
+  },
+  "Card": {
+    "Marketing": {
+      "actionable": {
+        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Card/Marketing/actionable.jpg",
+        "type": "asset"
+      },
+      "Informational": {
+        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Card/Marketing/informational.jpg",
+        "type": "asset"
+      }
+    }
+  },
+  "Avatar": {
+    "Default": {
+      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Avatar/Default.png",
+      "type": "asset"
+    },
+    "Alternate": {
+      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/CherryiO/Avatar/Alternate.png",
+      "type": "asset"
+    }
+  },
+  "Bold": {
+    "value": "700",
+    "type": "fontWeights"
+  },
+  "H1": {
+    "value": {
+      "fontFamily": "{Font-Primary}",
+      "fontWeight": "{Bold}",
+      "lineHeight": "{line-height-300}",
+      "fontSize": "{font-size-800}",
+      "letterSpacing": "{100}"
+    },
+    "type": "typography"
+  },
+  "H5": {
+    "value": {
+      "fontFamily": "{Font-Primary}",
+      "fontWeight": "{Bold}",
+      "lineHeight": "{line-height-200}",
+      "fontSize": "{font-size-600}",
+      "letterSpacing": "{100}"
+    },
+    "type": "typography"
+  },
+  "Label": {
+    "Button": {
+      "value": {
+        "fontFamily": "{Font-Primary}",
+        "fontWeight": "{Bold}",
+        "lineHeight": "{line-height-200}",
+        "fontSize": "{font-size-300}",
+        "letterSpacing": "{100}"
+      },
+      "type": "typography"
+    }
+  },
+  "UXCopy": {
+    "Button": {
+      "value": "Just Tap me",
+      "type": "other"
+    },
+    "ListItem": {
+      "value": "Your Device",
+      "type": "other"
+    },
+    "ListSelectItem": {
+      "value": "Additional",
+      "type": "other"
+    },
+    "TabSwitchItem_1": {
+      "value": "My Things",
+      "type": "other"
+    },
+    "TabSwitchItem_2": {
+      "value": "All Thngs",
+      "type": "other"
+    },
+    "DeviceName": {
+      "value": "Unknown Thing",
+      "type": "other"
+    },
+    "TitleH5": {
+      "value": "Keep it Short",
+      "type": "other"
+    },
+    "TitleH1": {
+      "value": "Main Event",
+      "type": "other"
+    },
+    "TitleH4": {
+      "value": "Explanation",
+      "type": "other"
+    },
+    "TitleH3": {
+      "value": "Make 'em Tap",
+      "type": "other"
+    },
+    "BodyShort": {
+      "value": "Lemon drops Cherry macaroon bonbon sweet roll marzipan tart. Cookie sweet roll.",
+      "type": "other"
+    },
+    "BodyLong": {
+      "value": "Jelly-o bear claw carrot cake cheesecake chocolate bar. Dragée halvah fruitcake tootsie roll jelly-o ice cream chocolate cake tootsie roll bear claw. Toffee liquorice icing muffin shortbread cake jelly soufflé candy canes. Bonbon tart ice cream biscuit liquorice wafer liquorice oat cake pie.",
+      "type": "other"
+    }
+  }
+}

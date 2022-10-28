@@ -1,0 +1,84 @@
+{
+  "_primary": {
+    "value": "#074EE8",
+    "type": "color"
+  },
+  "_secondary": {
+    "value": "#7aa4ff",
+    "type": "color"
+  },
+  "_tertiary": {
+    "value": "#BC31EA",
+    "type": "color"
+  },
+  "_accent": {
+    "value": "#fff138",
+    "type": "color"
+  },
+  "_gradient": {
+    "value": "linear-gradient(90deg, {colors.brand.primary.500} 0%,{colors.brand.accent.500} 50%, {colors.brand.secondary.500} 100%)",
+    "type": "color"
+  },
+  "semantic": {
+    "foreground": {
+      "level-0": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-3": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{_primary}",
+        "type": "color"
+      },
+      "icon-animated": {
+        "value": "{_primary}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "level-0": {
+        "value": "#040608",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "#1C1C1D",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "#141e30",
+        "type": "color"
+      },
+      "level-3": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "tabbar": {
+        "value": "#0c1e30",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#000000",
+        "type": "color"
+      }
+    }
+  },
+  "utility": {
+    "success": {
+      "500": {
+        "value": "#5DAA1A",
+        "type": "color"
+      }
+    }
+  }
+}

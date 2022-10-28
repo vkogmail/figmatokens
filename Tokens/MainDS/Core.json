@@ -1,0 +1,125 @@
+{
+  "Font-Primary": {
+    "value": "Balsamiq Sans",
+    "type": "fontFamilies"
+  },
+  "Font-Secondary": {
+    "value": "Balsamiq Sans",
+    "type": "fontFamilies"
+  },
+  "utility": {
+    "success": {
+      "500": {
+        "value": "#7ea65b",
+        "type": "color"
+      }
+    }
+  },
+  "Card": {
+    "Marketing": {
+      "actionable": {
+        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/MainDS/Card/Marketing/actionable.jpg",
+        "type": "asset"
+      },
+      "Informational": {
+        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/MainDS/Card/Marketing/informational.jpg",
+        "type": "asset"
+      }
+    }
+  },
+  "Avatar": {
+    "Default": {
+      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/MainDS/Avatar/Default.png",
+      "type": "asset"
+    },
+    "Alternate": {
+      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/MainDS/Avatar/Alternate.png",
+      "type": "asset"
+    }
+  },
+  "Bold": {
+    "value": "700",
+    "type": "fontWeights"
+  },
+  "H1": {
+    "value": {
+      "fontFamily": "{Font-Primary}",
+      "fontWeight": "{Bold}",
+      "lineHeight": "{line-height-300}",
+      "fontSize": "{font-size-800}"
+    },
+    "type": "typography"
+  },
+  "H5": {
+    "value": {
+      "fontFamily": "{Font-Primary}",
+      "fontWeight": "{Regular}",
+      "lineHeight": "{line-height-200}",
+      "fontSize": "{font-size-600}",
+      "letterSpacing": "{100}"
+    },
+    "type": "typography"
+  },
+  "Label": {
+    "Button": {
+      "value": {
+        "fontFamily": "{Font-Primary}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-200}",
+        "fontSize": "{font-size-300}",
+        "letterSpacing": "{100}"
+      },
+      "type": "typography"
+    }
+  },
+  "UXCopy": {
+    "Button": {
+      "value": "Tap Me",
+      "type": "other"
+    },
+    "ListItem": {
+      "value": "Your Machine",
+      "type": "other"
+    },
+    "ListSelectItem": {
+      "value": "Additional Item",
+      "type": "other"
+    },
+    "TabSwitchItem_1": {
+      "value": "My Machines",
+      "type": "other"
+    },
+    "TabSwitchItem_2": {
+      "value": "All Machines",
+      "type": "other"
+    },
+    "DeviceName": {
+      "value": "Unknown Device",
+      "type": "other"
+    },
+    "TitleH5": {
+      "value": "Short Title",
+      "type": "other"
+    },
+    "TitleH1": {
+      "value": "Main Title",
+      "type": "other"
+    },
+    "TitleH4": {
+      "value": "Declarative Title",
+      "type": "other"
+    },
+    "TitleH3": {
+      "value": "Actionable Short Title",
+      "type": "other"
+    },
+    "BodyShort": {
+      "value": "In publishing and graphic design, Lorem ipsum is a placeholder text.",
+      "type": "other"
+    },
+    "BodyLong": {
+      "value": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication, without the meaning of the text influencing the design.",
+      "type": "other"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "Font-Primary": {
+    "value": "Luckiest Guy",
+    "type": "fontFamilies"
+  },
+  "utility": {
+    "success": {
+      "500": {
+        "value": "#579b1c",
+        "type": "color"
+      }
+    }
+  },
+  "Card": {
+    "Marketing": {
+      "actionable": {
+        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/78b007594ffd33ffc28aa49642fed0c9bcadcdfb/Card/Marketing/actionable.jpg",
+        "type": "asset"
+      },
+      "Informational": {
+        "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/78b007594ffd33ffc28aa49642fed0c9bcadcdfb/Card/Marketing/informational.jpg",
+        "type": "asset"
+      }
+    }
+  },
+  "Avatar": {
+    "Default": {
+      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/78b007594ffd33ffc28aa49642fed0c9bcadcdfb/Avatar/Default.png",
+      "type": "asset"
+    },
+    "Alternate": {
+      "value": "https://cors.six7.workers.dev/?https://raw.githubusercontent.com/vkogmail/images/JuiceiO/Avatar/Alternate.png",
+      "type": "asset"
+    }
+  },
+  "Bold": {
+    "value": "700",
+    "type": "fontWeights"
+  },
+  "H1": {
+    "value": {
+      "fontFamily": "{Font-Primary}",
+      "fontWeight": "{Regular}",
+      "lineHeight": "{line-height-300}",
+      "fontSize": "{font-size-800}",
+      "letterSpacing": "{100}"
+    },
+    "type": "typography"
+  },
+  "H5": {
+    "value": {
+      "fontFamily": "{Font-Primary}",
+      "fontWeight": "{Regular}",
+      "lineHeight": "{line-height-200}",
+      "fontSize": "{font-size-600}",
+      "letterSpacing": "{100}"
+    },
+    "type": "typography"
+  },
+  "Label": {
+    "Button": {
+      "value": {
+        "fontFamily": "{Font-Primary}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-200}",
+        "fontSize": "{font-size-300}",
+        "letterSpacing": "{100}"
+      },
+      "type": "typography"
+    }
+  },
+  "UXCopy": {
+    "Button": {
+      "value": "Klik Hier",
+      "type": "other"
+    },
+    "ListItem": {
+      "value": "Uw apparaat",
+      "type": "other"
+    },
+    "ListSelectItem": {
+      "value": "Extra Item",
+      "type": "other"
+    },
+    "TabSwitchItem_1": {
+      "value": "Mijn Apparaten",
+      "type": "other"
+    },
+    "TabSwitchItem_2": {
+      "value": "Alle Apparaten",
+      "type": "other"
+    },
+    "DeviceName": {
+      "value": "Onbekend Apparaat",
+      "type": "other"
+    },
+    "TitleH5": {
+      "value": "Korte Titel",
+      "type": "other"
+    },
+    "TitleH1": {
+      "value": "Hoofd Titel",
+      "type": "other"
+    },
+    "TitleH4": {
+      "value": "Verklarende Titel",
+      "type": "other"
+    },
+    "TitleH3": {
+      "value": "Actiematige Korte titel",
+      "type": "other"
+    },
+    "BodyShort": {
+      "value": "Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen.",
+      "type": "other"
+    },
+    "BodyLong": {
+      "value": "Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus te maken.",
+      "type": "other"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_primary": {
+    "value": "#fca12b",
+    "type": "color",
+    "description": "Gewoon klikken gek"
+  },
+  "_secondary": {
+    "value": "#2F3031",
+    "type": "color"
+  },
+  "_tertiary": {
+    "value": "#DB7D00",
+    "type": "color"
+  },
+  "_accent": {
+    "value": "#F48C00",
+    "type": "color"
+  },
+  "_gradient": {
+    "value": "linear-gradient(90deg, #F48C00 0%, #F48C00 100%)",
+    "type": "color"
+  },
+  "semantic": {
+    "foreground": {
+      "level-0": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-3": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{_primary}",
+        "type": "color"
+      },
+      "icon-animated": {
+        "value": "{_primary}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "level-0": {
+        "value": "#121313",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "#1C1C1D",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "#2A2B2C",
+        "type": "color"
+      },
+      "level-3": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "tabbar": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "icon": {
+        "value": "#000000",
+        "type": "color"
+      }
+    }
+  },
+  "utility": {
+    "success": {
+      "500": {
+        "value": "#5DAA1A",
+        "type": "color"
+      }
+    }
+  }
+}

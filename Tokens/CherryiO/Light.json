@@ -1,0 +1,81 @@
+{
+  "_primary": {
+    "value": "#ed0000",
+    "type": "color",
+    "description": "Press here Princess"
+  },
+  "_secondary": {
+    "value": "#3d3045",
+    "type": "color"
+  },
+  "_accent": {
+    "value": "#ed000066",
+    "type": "color"
+  },
+  "_tertiary": {
+    "value": "#3d304566",
+    "type": "color"
+  },
+  "_gradient": {
+    "value": "linear-gradient(90deg, #ed0000 0%, #9E1620 100%)",
+    "type": "color"
+  },
+  "semantic": {
+    "foreground": {
+      "level-0": {
+        "value": "#121313",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "#1C1C1D",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "#2A2B2C",
+        "type": "color"
+      },
+      "level-3": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "icon-animated": {
+        "value": "{_primary}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "level-0": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-1": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-2": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "level-3": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      },
+      "tabbar": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      }
+    },
+    "inactive": {
+      "value": "{colors.neutral.300}",
+      "type": "color"
+    }
+  }
+}
