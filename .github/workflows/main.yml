@@ -13,7 +13,7 @@ jobs:
       - name: Run GitHub File Sync
         uses: Redocly/repo-file-sync-action@master
         with:
-          GH_PAT: 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
+          GH_PAT: FILL IN YOUR OWN PERSONAL ACCESS CODE
           PR_LABELS: |
                 Brands Json and Directory Sync
                 
